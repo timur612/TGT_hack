@@ -11,7 +11,7 @@
 # Решение
 ## Визуализация данных
 Большинство данных, где не падал песок выглядят так:<br>
-![audio_data_viz_label0](./images/audio_data_viz_label0.png)
+![audio_data_viz_label0](./images/audio_data_viz_label0.png)<br>
 Остальная часть данных, где падал песок выглядят так:<br>
 ![audio_data_viz_label0](./images/audio_data_viz_label1.png)
 ## Распределение классов
